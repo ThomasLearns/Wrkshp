@@ -1,0 +1,22 @@
+{
+  "name": "dontlikecaps",
+  "version": "1.0.0",
+  "description": "hello firt repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomLunk/Wrkshp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomLunk/Wrkshp/issues"
+  },
+  "homepage": "https://github.com/TomLunk/Wrkshp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
